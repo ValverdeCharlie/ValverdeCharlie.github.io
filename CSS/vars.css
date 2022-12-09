@@ -1,0 +1,37 @@
+:root{
+
+    --base-fs: 15px;
+    --spacer-sxm: 0.25;
+    --spacer-sm: 0.5;
+    --spacer-md: 1;
+    --spacer-lg: 1.5;
+    --spacer-xlg: 3;
+
+    --ff-primary: 'Lato';
+
+    --fw-light: 300;
+    --fw-med: 400;
+    --fw-bold: 700;
+
+    --fs-xsm: 1rem;
+    --fs-sm: 1.125rem;
+    --fs-rg: 1.25rem;
+    --fs-md: 1.5rem;
+    --fs-md1: 2.125rem;
+    --fs-mdxl: 3rem;
+    --fs-lg: 3.5rem;
+    --fs-xlg: 5rem;
+
+    --clr-green-light: #8cfca4;
+    --clr-red-dark: #ff6961;
+    --clr-red-light: #ff9688;
+    --clr-yellow-dark: #ebf3a0;
+    --clr-yellow-light: #f5fac1;
+
+    /*Este seria el link del la tipografia, link que va en el html de la pagina que vayan a hacer*/
+
+    /*<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet"> */
+
+}

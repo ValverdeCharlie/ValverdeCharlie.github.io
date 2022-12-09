@@ -1,0 +1,41 @@
+
+@import url(vars.css);
+
+
+
+.boton{
+    background: var(--clr-red-light);
+    font-family: var(--ff-primary);
+    font-weight: var(--fw-med);
+
+
+}
+
+.lista{
+    list-style:none ;
+    margin-top: 2em;
+    text-align: center;
+    
+}
+
+.titulo{
+
+    font-family: var(--ff-primary);
+    font-size: 2em;
+    text-decoration: none;
+}
+
+.titulo_negrita{font-weight: var(--fw-bold);}
+
+
+
+.recuperacion_registro{
+  margin-left: 3em;    
+}
+
+.color_verde{color: var(--clr-green-light);}
+
+li{
+
+    margin-top: 2em;
+}
